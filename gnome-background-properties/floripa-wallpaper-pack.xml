@@ -21,4 +21,24 @@
         <pcolor>#ffffff</pcolor>
         <scolor>#000000</scolor>
     </wallpaper>
+    <wallpaper deleted="false">
+        <name>Praia de Itaguaçu</name>
+        <name xml:lang="pt">Praia de Itaguaçu</name>
+        <name xml:lang="pt_BR">Praia de Itaguaçu</name>
+        <filename>/usr/share/wallpapers/Praia-de-Itaguacu/Praia-de-Itaguacu.xml</filename>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#ffffff</pcolor>
+        <scolor>#000000</scolor>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Prainha da Barra da Lagoa</name>
+        <name xml:lang="pt">Prainha da Barra da Lagoa</name>
+        <name xml:lang="pt_BR">Prainha da Barra da Lagoa</name>
+        <filename>/usr/share/wallpapers/Prainha-da-Barra-da-Lagoa/Prainha-da-Barra-da-Lagoa.xml</filename>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#ffffff</pcolor>
+        <scolor>#000000</scolor>
+    </wallpaper>
 </wallpapers>
